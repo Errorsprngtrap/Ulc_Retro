@@ -11,5 +11,6 @@ Passive : None
 6. [ ] Force and TP (let ya select with key input)
 7. [ ] Small plane : send toy plane going from ya to where you click thoose plain release small ball that bounce then explode
 ### ***Upgrades :***
-1. [ ]  
+1. [ ]  +20 Stamina : increase your max stamina
+2. [ ]  Bone increase : box rush and bonezone containt more bone
 __________________________________________________________________________
