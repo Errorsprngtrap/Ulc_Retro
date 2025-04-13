@@ -11,5 +11,5 @@ Passive : None
 6. [ ] Force and TP (let ya select with key input)
 7. [ ] Small plane : send toy plane going from ya to where you click thoose plain release small ball that bounce then explode
 ### ***Upgrades :***
-1. [ ]  m
+1. [ ]  
 __________________________________________________________________________

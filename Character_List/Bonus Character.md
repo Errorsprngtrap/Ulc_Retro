@@ -5,7 +5,6 @@
 **Negative Sans**
 **Helltale Sans**
 
-
 # ***Unlocked By Event***
 **HorrorFell Sans : 50 Wins + Halloween Badge**
 **Jack-o- Sans : 100 Wins + Halloween Badge**

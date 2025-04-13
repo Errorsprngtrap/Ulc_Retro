@@ -15,7 +15,7 @@
 **Tears In The Rain : 120 Wins and XP on Sans** [[Tear In The Rain]]
 **Dust Sans : 140 Wins and Sans XP** [[Dusttale Sans]]
 **SwapDust  Papyrus : 140 Wins and Swap Papyrus XP** [[SwapDust]]
-**Disbelief Papyrus : 190 Wins and Papyrus XP**
+**Disbelief Papyrus : 190 Wins and Papyrus XP** 
 **Disttrust Sans : 190 Wins and Swap Sans XP and Badge** 
 **Fresh : 220 Wins**
 **Axetale Sans : 250 Wins**

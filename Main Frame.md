@@ -24,6 +24,14 @@
 6. [[Sans]]
 7. [[Underswap Papyrus]]
 8. [[Altertale Toriel]]
+9. [[UnderFell Sans]]
+10. [[Outertale Sans]]
+11. [[Last Breath Sans]]
+12. [[Undyne]]
+13. [[Horror Sans]]
+14. [[Tear In The Rain]]
+15. [[Dusttale Sans]]
+16. [[SwapDust]]
 #### ***Chara Team*** :
 #### ***Soul :***
 1. [[Kindness]]
