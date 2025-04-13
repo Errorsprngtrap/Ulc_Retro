@@ -1,6 +1,6 @@
 # ***Unlockable by doing Boss Fight***
 **Asgore** 
-**Flowey** 
+**Flowey** the flower
 **Grilby**
 **Negative Sans**
 **Helltale Sans**
