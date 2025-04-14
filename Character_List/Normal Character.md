@@ -1,5 +1,5 @@
 # ***Sans Team:***
-**LittleTale Sans : Free / 0 Wins** [[LittletaleSans]]
+**LittleTale Sans : Free / 0 Wins** [[LittleTale Sans]]
 **Pacifist Sans : 5 Wins** [[Pacifist Sans]]
 **Negatale Sans / Negative Negatale Sans / Adult Form : 10 Wins** [[Negatale Sans]]
 **Papyrus / Royal Guard Papyrus : 15 Wins** [[Papyrus]]

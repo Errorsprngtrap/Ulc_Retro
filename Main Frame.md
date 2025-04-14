@@ -16,7 +16,7 @@
 
 # ***Moveset (skin , upgrades included):***
 #### ***Sans Team :***
-1. [[LittletaleSans]]        NEW HERE: [[LittleTale Sans]]
+1. [[LittleTale Sans]]
 2. [[Pacifist Sans]]
 3. [[Negatale Sans]]
 4. [[Papyrus]]
