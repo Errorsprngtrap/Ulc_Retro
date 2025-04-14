@@ -3,7 +3,7 @@ __________________________________________________________________________
 Stamina : 160 / HP : 1 / Defense : 0 / Dodge : Yes / Kr : Yes
 Map : New home
 ### ***Attack :***
-1. [ ] Quick Zone : Summon a medium sized zone that rise pretty fac=st but unrise also pretty fast 
+1. [ ] Quick Zone : Summon a medium sized zone that rise pretty fast and unrise also pretty fast 
 2. [ ] Un-sync blaster : use a dual blaster but one will fire a tad bit after 
 3. [ ] Bone platform : bone spawn everywhere while platform spawn and move and blue bone come from wall pretty quickly 
 4. [ ] Falling bone : bone will slowly fall from the sky , some straight some other spinning 
@@ -35,12 +35,11 @@ Passive :
 Stamina : 140 / HP : 1 / Defense : 0 / Dodge : 6 / Kr : Yes/ hit : 10
 Passive :
 	immunity : you cannot lose stam 
-	slow death each hit bring you closer to death , making the music slower , attack slower and less precise , make you slower and make your vidsion more blury
-	not a good doger anymore : each dodge will let you go less and less far but when people attack you in this state theyre m1 cd get worst 
+	slow death each hit bring you closer to death , making the music slower , attack slower and less precise , make you slower and make your vision more bury
+	not a good dodger anymore : each dodge will let you go less and less far but when people attack you in this state there m1 cd get worst 
 ### ***Attack :***
-1. [ ] bonerush : sand a quick rush of bone when at the same time bone will rain around player , the less hit you have the more your attack start to go in random direction and far from where you click get a chance to have the bone falling mid way and boen not falling from the sky anymore
+1. [ ] bonerush : sand a quick rush of bone when at the same time bone will rain around player , the less hit you have the more your attack start to go in random direction and far from where you click get a chance to have the bone falling mid way and bone not falling from the sky anymore
 2. [ ] blaster : spawn 3  blaster firering where you click and 3 blaster firering at random , the less hit he have the more his blaster get smaller and get offset sometime not even firering and just falling to the ground
-3. [ ] side bone : bone will grow from both side of the wall and go in opposite direction , the less you have the less bone theyre is the smaller the bone get 
+3. [ ] side bone : bone will grow from both side of the wall and go in opposite direction , the less you have the less bone there is the smaller the bone get 
 4. [ ] Force : the less hit, the less far it send people away
-5. [ ] Bonezone : create random zone around where you click that are quik to rise and unrise , less hit = less zone and smaller radius
-6. [ ] 
+5. [ ] Bonezone : create random zone around where you click that are quick to rise and unrise , less hit = less zone and smaller radius
