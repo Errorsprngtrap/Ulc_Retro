@@ -8,7 +8,7 @@ Passive :
 2. [ ] Ketchup : let you drink 2 time ketchup that regen 20 stamina and boost your speed for a few sec
 3. [ ] Mini Bone : spawn a single mini bone that will bounce forever on the battleground (the bone his very slow)
 4. [ ] Trombonic : If your hit during the warn time sans will teleport behind said player and play a powerful note of trombone pushing away the player and sending note around in the air and bone in the direction of the player in question
-5. [ ] 
+5. [ ] Throw Away : you can choose between launching where you click a snowball that will put the frozen effect to any player near the crash site or send your famous pet rock that will do 6 damage and will bypass Defense
 ### ***Upgrades :***
 1. [ ]  
 ### ***Skin :***
