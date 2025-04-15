@@ -1,13 +1,10 @@
-[[
-	<font size="5">Normal Damage</font> <font size="5">
-	Very basic they will damage you of x amount based of the attack damage input and your defense. </font> 
-	(Some attack can bypass defense)
-	]]
-[[
-	<font size="5">Stamina Damage</font> <font size="5">
+
+<font size="5">Normal Damage</font> <font size="5">
+Very basic they will damage you of x amount based of the attack damage input and your defense. </font> (Some attack can bypass defense)
+
+<font size="5">Stamina Damage</font> <font size="5">
 	This type of damage can let you affect an opponent stamina without damaging theyre hp. </font> 
-	]],
- [[
+[[
 	<font color="#006106" size="5">Poisonous</font> 
 	<font color="#006106" size="5">
 	If your under this effect you will slowly damage any teammate around you.
