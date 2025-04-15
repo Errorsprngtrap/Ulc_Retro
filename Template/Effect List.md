@@ -8,10 +8,10 @@
 	This type of damage can let you affect an opponent stamina without damaging theyre hp. </font> 
 	]],
  [[
-	<font color="#006106" size="5"><stroke color="#002102" joins="miter" thickness="4" transparency="0.1">Poisonous</stroke></font> 
-	<font color="#006106" size="5"><stroke color="#002102" joins="miter" thickness="4" transparency="0.1">
+	<font color="#006106" size="5">Poisonous</font> 
+	<font color="#006106" size="5">
 	If your under this effect you will slowly damage any teammate around you.
-	</stroke></font> 
+	</font> 
 	]],
  [[
 	<font color="#EA80FF" size="5"><stroke color="#550080" joins="miter" thickness="4" transparency="0.1">KR</stroke></font> <font size="5">
