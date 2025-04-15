@@ -10,12 +10,9 @@
  [[
 	<font color="#006106" size="5">Poisonous</font> 
 	<font color="#006106" size="5">
-<<<<<<< HEAD
-	If your under this effect you will slowly damage any teammate around you.</font> 
-=======
+	If your under this effect you will slowly damage any teammate around you.
 	If your under this effect you will slowly damage any teammate around you.
 	</font> 
->>>>>>> 4f646317b88392d6a49dae71439ec0d2291f6093
 	]],
  [[
 	<font color="#EA80FF" size="5"><stroke color="#550080" joins="miter" thickness="4" transparency="0.1">KR</stroke></font> <font size="5">
@@ -53,11 +50,5 @@
 	]],
 [[
 	<font color="#4DFFFF" size="5"><stroke color="#B3F2FF" joins="miter" thickness="4" transparency="0.1">Froze KR</stroke></font> <font color="#4DFFFF" size="5">
-	Act like KR and Froze at the same time.  
-<<<<<<< HEAD
-	</font>
+	Act like KR and Froze at the same time. </font>
 	]]
-=======
-	</stroke></font>
-	]]
->>>>>>> 4f646317b88392d6a49dae71439ec0d2291f6093
