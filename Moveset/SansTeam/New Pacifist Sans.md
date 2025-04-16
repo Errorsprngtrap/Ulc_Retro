@@ -21,6 +21,13 @@ Passive :
 2. [ ] strong smash : sans stop sign now send a few snowball around where he slammed 
 3. [ ] Unphased and prepared : ketchup have now 5 use and bone rising doesn't stun anymore
 4. [ ] Reloading : every 1:30 minutes sans get back a new ketchup recharge giving you + 1 use
+5. [ ] Not Joking Around : 
+       Trombonic his replace by BoneBomb : 
+       A warning will appear where clicked then after a few sec an explosion of bone will come from the warning
+       trow away his replaced by a bonezone : this bonezone can be combined with stop slam to launch all the bone in the air
+       Think fast : The bone his now bigger and a tad faster
+       Ketchup loose its blast mode but its cd his lowered
+       
 ### ***Skin :***
 1. [ ] 
 __________________________________________________________________________
