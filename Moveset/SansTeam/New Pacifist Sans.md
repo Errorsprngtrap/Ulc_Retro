@@ -20,7 +20,7 @@ Passive :
 1. [ ]  Sleepy bone : Sans when standing still make his stamina rate go up faster then other character
 2. [ ] strong smash : sans stop sign now send a few snowball around where he slammed 
 3. [ ] Unphased and prepared : ketchup have now 5 use and bone rising doesn't stun anymore
-4. [ ] Reloading : every 1 minutes sans get back a new ketchup recharge giving you + 1 use
+4. [ ] Reloading : every 1:30 minutes sans get back a new ketchup recharge giving you + 1 use
 ### ***Skin :***
 1. [ ] 
 __________________________________________________________________________
