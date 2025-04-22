@@ -14,10 +14,6 @@ Passive : Annoyance : you get an annoyance bar when you get hit or when you atta
        it will be 15 stud if you have 50% annoyance, you will throw a second bone near the first one
        if you reach 100% annoyance, you will launch one bone where you click one behind him and a turn one will fall on a random player
 6. [ ] Fast Wave : Create a  wave of bone that goes up and down very quickly
-## ***Phase 1.5 :***
-A dialogue will appear and let you choose if you want to spare sans or not:
-Spare : Sans will get 1 win and half the amount of normal exp he should get and the chara team also gain a win but no exp
-Fight : The fight continue sans annoyance will fall back to 0 (if you win against sans after that you will get 2 wins and 1.5 more exp as chara) 
 ## ***Phase 2 :***
 Stamina : 140 / HP : 1 / Defense : 0 / Dodge : Yes / Kr : Yes
 	Passive : 

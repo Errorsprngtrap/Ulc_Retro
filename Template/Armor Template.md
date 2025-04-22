@@ -1,6 +1,6 @@
 __________________________________________________________________________
-# ***Soul Name :***
+# ***Armor Name :***
 Wins needed/game pass/badge/exp on other character
-**passive:**  
-Ability:
+Defense it give : 
+Passive : optional
 __________________________________________________________________________
