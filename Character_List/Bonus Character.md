@@ -4,6 +4,7 @@
 **Grilby**
 **Negative Sans**
 **Helltale Sans**
+oceantale sans
 
 # ***Unlocked By Event***
 **HorrorFell Sans : 50 Wins + Halloween Badge**
