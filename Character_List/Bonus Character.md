@@ -4,7 +4,8 @@
 **Grilby**
 **Negative Sans**
 **Helltale Sans**
-oceantale sans
+**oceantale sans**
+**Classic Swap**
 
 # ***Unlocked By Event***
 **HorrorFell Sans : 50 Wins + Halloween Badge**
