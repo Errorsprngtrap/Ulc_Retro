@@ -1,4 +1,4 @@
-__________________________________________________________________________
+________________________________________________________________________
 # ***Altertale Toriel :***
 Stamina : 200 / HP : 1 / Defense : 0 / Block : Yes / Kr : No
 Block : you use a blaster to block player attack

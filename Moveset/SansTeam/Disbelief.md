@@ -8,8 +8,8 @@ Passive :
 4. [ ] 10 blast : let you spam up to 10 blaster this attack have multiple mode 
 	    1: normal blaster use 1 blaster 
 	    2: big blaster it use 2 blaster to spawn a big one 
-	    3 x blast use for blaster
-5. [ ] bonerang bone : send a bone spin bounce around at high speed
+	    3: x blast use 4 blaster
+5. [ ] bonerang bone : send a bone spin that bounce around at high speed
 6. [ ] lazy bone : sans lazy bone
 7. [ ] bone rush : papyrus send a small but quick amount of bone rushing
 ### ***Upgrades :***
