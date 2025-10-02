@@ -1,0 +1,1 @@
+sans dodge on last hit he use a bone to protect himself and the bone broke

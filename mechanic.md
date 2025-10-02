@@ -1,0 +1,1 @@
+dt dont revive beingg the last player alive will grant you a revive
