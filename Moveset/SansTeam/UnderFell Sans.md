@@ -8,7 +8,7 @@ Stamina : 140 / HP : 1 / Defense : 0 / Dodge : Yes / Kr : Yes
        2 : spawn 2 blaster near you a bit above the first use 1
 3. [ ] Bonewall : send a quick triple color wall 
 4. [ ] Blue Rain : spinning bone fall from the sky some of them will create a small shock wave of bone when hitting the ground
-5. [ ] YOU ASKED FOR IT : Spawn 10 blaster at the end of the map fire where you clicked
+5. [ ] YOU ASKED FOR IT : a few + like spin boen wil move foward towrd z=where you look and when they get too close to a wall they turn into blaster and blast a random player or near sans
 6. [ ] Whats up : if you get hit during this move a wall of bone rise in front of you and bone strike you opponent in the face cause heavy damage and blurring they're screen
 7. [ ] BoneZone : a very quick BoneZone that isn't very large
 8. [ ] Force : Send the opponent away
